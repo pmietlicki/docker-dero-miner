@@ -14,8 +14,7 @@ To generate a config file, you can use the [generator](https://config.xmrig.com/
 
 ### Optional
 **POOL_PW**=Rancher\
-**COIN**=dero\
-**MAX_CPU**=100
+**COIN**=dero
 
 ## Run
 
