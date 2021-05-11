@@ -1,4 +1,4 @@
-![dero Logo](https://dero.io/img/logo.png)
+<img src="https://dero.io/img/logo.png" alt="dero logo" width="100"/>
 
 # Dero Miner
 
@@ -7,7 +7,7 @@ Image of latest [xmrig](https://github.com/xmrig/xmrig) version, a very high per
 ## Configuration variables with default values
 
 ### Mandatory
-**You can use config json file by putting it inside /home/dero/config.json**\
+**You can use config json file by putting it inside /home/dero/config/config.json**\
 To generate a config file, you can use the [generator](https://config.xmrig.com/)\
 **POOL_URL**=dero.miner.rocks:30182\
 **POOL_USER**=derooMhHriXTfpnVtJTaAGJKGsWfZ4o7U2gRrBKRsQZJEXrfG3Ws8TpbeLckBDiG6mSjt1Fi33ydHAPbfDrDHphF34sep8P16W
